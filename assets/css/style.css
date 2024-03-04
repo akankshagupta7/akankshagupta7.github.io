@@ -370,9 +370,11 @@ h3 {
   background-color: rgba(33, 150, 243, 0.2);
 }
 
-.card-reveal .card-action{
+.card .card-action{
   position: sticky;
   float: right;
+  padding: 0px;
+  border: 0px;
 }
 
 .card {
