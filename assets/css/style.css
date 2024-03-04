@@ -125,7 +125,7 @@
 
 body {
   color: #333;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 /* body {
@@ -368,13 +368,6 @@ h3 {
   /* The alpha value allows the text and background color
    of the button to still show through. */
   background-color: rgba(33, 150, 243, 0.2);
-}
-
-.card .card-action{
-  position: sticky;
-  float: right;
-  padding: 0px;
-  border: 0px;
 }
 
 .card {
